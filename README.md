@@ -4,6 +4,6 @@
 A simple, responsive, single-page portfolio and resume
 
 ### WEBSITE ONLINE STATUS
-[![Netlify Status](https://api.netlify.com/api/v1/badges/df0071c5-5a9f-49ee-8338-284cbd0c93c3/deploy-status)](https://app.netlify.com/sites/swastikmishra/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cdb9dc24-9d00-4eab-acbc-42eed335d7af/deploy-status)](https://app.netlify.com/sites/upbeat-almeida-9255c7/deploys)
 
 
