@@ -14,5 +14,4 @@ A simple, responsive, single-page portfolio and resume
 
 :rocket:[souravbera.ml](souravbera.ml)
 <!--Domain And Hosting: [Freenom.com](https://www.freenom.com/en/index.html?lang=en) and [Netlify.com](https://app.netlify.com/signup?_ga=2.236857667.372603529.1602820421-371761459.1602820421)-->
-Author: Sourav Bera
-
+:rocket: Sourav Bera
